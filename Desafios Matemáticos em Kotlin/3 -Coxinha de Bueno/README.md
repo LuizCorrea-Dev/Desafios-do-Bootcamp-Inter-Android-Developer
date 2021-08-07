@@ -1,6 +1,6 @@
 # **Desafios Matemáticos em Kotlin**
 
-## Desafio - **3 **/ **3** **-** **Coxinha de Bueno**
+## Desafio - **3** **/** 3 **-** **Coxinha de Bueno**
 
 Em 2015 um novo record foi alcançado na competição de Coxinhas de Bueno de Andrada, onde Mônica mandou pra dentro 43 coxinhas em apenas 10 minutos, passando se antecessor que conseguiu comer, no mesmo tempo, 38 coxinhas em 2014.
 
