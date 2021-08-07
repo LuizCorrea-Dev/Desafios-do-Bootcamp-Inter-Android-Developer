@@ -1,6 +1,6 @@
 # **Desafios Matemáticos em Kotlin**
 
-## Desafio - **2 **/ **3** **-** **Consumo Médio do Automóvel**
+## Desafio - **2** **/** 3 **-** **Consumo Médio do Automóvel**
 
 Você deve calcular o consumo médio de um automóvel onde será informada a distância total percorrida (em Km) e o total de combustível consumido (em litros).
 
